@@ -1,11 +1,1 @@
-<!DOCTYPE html>
-<html lang="de">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Titel</title>
-  </head>
-  <body>
-
-  </body>
-</html>
+Ich kenne mich noch nicht sehr gut mit github oder dem Programmieren einer Website aus, allgemein VsCode und all die Programme die wir nutzen sind mir neu. Ich will mich zuerst rechtfinden in den Programmen und die Basics erleren des Programmieren einer Website
